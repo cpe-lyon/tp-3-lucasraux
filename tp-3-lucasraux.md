@@ -58,3 +58,48 @@
 
 ![GitHub Logo](/assets/ex1.10.png)
 
+#### 11. Comment obtenir l’uid et le gid de alice ?
+
+![GitHub Logo](/assets/ex1.11.png)
+
+#### 12. Quelle commande permet de retrouver l’utilisateur dont l’uid est 1003 ?
+
+![GitHub Logo](/assets/ex1.12.png)
+
+#### 13. Quel est l’id du groupe dev ?
+
+![GitHub Logo](/assets/ex1.13.png)
+
+#### 14. Quel groupe a pour gid 1002 ? ( Rien n’empêche d’avoir un groupe dont le nom serait 1002...)
+
+![GitHub Logo](/assets/ex1.14.png)
+
+#### 15. Retirez l’utilisateur charlie du groupe infra. Que se passe-t-il ? Expliquez.
+
+![GitHub Logo](/assets/ex1.15.png)
+
+#### 16. Modifiez le compte de dave de sorte que :
+
+— il expire au 1er juin 2021
+
+![GitHub Logo](/assets/ex1.16.1.png)
+
+— il faut changer de mot de passe avant 90 jours
+— il faut attendre 5 jours pour modifier un mot de passe
+— l’utilisateur est averti 14 jours avant l’expiration de son mot de passe
+— le compte sera bloqué 30 jours après expiration du mot de passe
+
+#### 17. Quel est l’interpréteur de commandes (Shell) de l’utilisateur root ?
+
+![GitHub Logo](/assets/ex1.17.png)
+
+#### 18. Si vous regardez la liste des comptes présents sur la machine, vous verrez qu’il en existe un nommé nobody. A quoi correspond-il ?
+
+![GitHub Logo](/assets/ex1.18.png)
+
+#### 19. Par défaut, combien de temps la commande sudo conserve-t-elle votre mot de passe en mémoire ?
+
+
+##### Quelle commande permet de forcer sudo à oublier votre mot de passe ?
+
+![GitHub Logo](/assets/ex1.19.png)
