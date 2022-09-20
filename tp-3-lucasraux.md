@@ -56,6 +56,8 @@
 
 #### 10. Activez le compte de l’utilisateur alice et vérifiez que vous pouvez désormais vous connecter avec son compte.
 
+Pour activer un compte utilisateur, on utilise la commande passwd nom_utilisateur.
+
 ![GitHub Logo](/assets/ex1.10.png)
 
 #### 11. Comment obtenir l’uid et le gid de alice ?
