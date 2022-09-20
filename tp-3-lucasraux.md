@@ -114,7 +114,9 @@ ps: je n'avais pas pris de capture d'écran pour le compte de Alice
 
 #### 1. Dans votre $HOME, créez un dossier test, et dans ce dossier un fichier fichier contenant quelques lignes de texte. Quels sont les droits sur test et fichier ?
 
-![GitHub Logo](/assets/ex1.18.png)
+![GitHub Logo](/assets/ex2.1.png)
+
+![GitHub Logo](/assets/ex2.1.1.png)
 
 #### 2. Retirez tous les droits sur ce fichier (même pour vous), puis essayez de le modifier et de l’afficher en tant que root. Conclusion ?
 
