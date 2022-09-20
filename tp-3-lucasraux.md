@@ -58,6 +58,9 @@
 
 Pour activer un compte utilisateur, on utilise la commande passwd nom_utilisateur.
 
+![GitHub Logo](/assets/ex1.10.2.png)
+ps: je n'avais pas pris de capture d'écran pour le compte de Alice
+
 ![GitHub Logo](/assets/ex1.10.png)
 
 #### 11. Comment obtenir l’uid et le gid de alice ?
