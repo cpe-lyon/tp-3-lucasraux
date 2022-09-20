@@ -107,12 +107,14 @@ ps: je n'avais pas pris de capture d'écran pour le compte de Alice
 
 ##### Quelle commande permet de forcer sudo à oublier votre mot de passe ?
 
-![GitHub Logo](/assets/ex1.19.png)
+![GitHub Logo](/assets/ex2.1.png)
 
 
 ### Exercice 2. Gestion des permissions
 
 #### 1. Dans votre $HOME, créez un dossier test, et dans ce dossier un fichier fichier contenant quelques lignes de texte. Quels sont les droits sur test et fichier ?
+
+![GitHub Logo](/assets/ex1.18.png)
 
 #### 2. Retirez tous les droits sur ce fichier (même pour vous), puis essayez de le modifier et de l’afficher en tant que root. Conclusion ?
 
@@ -138,11 +140,20 @@ ps: je n'avais pas pris de capture d'écran pour le compte de Alice
 
 #### 13. Transcrivez les commandes suivantes de la notation classique à la notation octale ou vice-versa (vous pourrez vous aider de la commande stat pour valider vos réponses) :
 - chmod u=rx,g=wx,o=r fic
+#### = chmod 534 fic
+
 - chmod uo+w,g-rx fic en sachant que les droits initiaux de fic sont r--r-x---
+#### = chmod 602 fic
+
 - chmod 653 fic en sachant que les droits initiaux de fic sont 711
+#### = chmod u=rw,g=rx,o=wx
+
 - chmod u+x,g=w,o-r fic en sachant que les droits initiaux de fic sont r--r-x---
+#### chmod 520 fic
 
 #### 14. Affichez les droits sur le programme passwd. Que remarquez-vous ? En affichant les droits du fichier /etc/passwd, pouvez-vous justifier les permissions sur le programme passwd ?
+
+
 
 #### Pour les plus rapides :
 ##### 15. Access Control Lists (ACL) : suivez le tutoriel de cette page : https://doc.ubuntu-fr.org/acl.
