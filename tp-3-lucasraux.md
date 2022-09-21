@@ -141,7 +141,7 @@ Le mot de passe est mémorisé par défaut pour une durée de 15 minutes.
 
 La commande qui force sudo à oublier le mot de passe est 
 
-![GitHub Logo](/assets/ex1.19 .png)
+![GitHub Logo](/assets/ex1.19.png)
 
 
 ### Exercice 2. Gestion des permissions
