@@ -50,8 +50,6 @@
 
 ##### ??????????
 
-![image](https://user-images.githubusercontent.com/80454458/191514477-a46edf35-8785-4cb8-b848-e2cdf9614eff.png)
-
 #### 9. Pouvez-vous ouvrir une session en tant que alice ? Pourquoi ?
 
 ![GitHub Logo](/assets/ex1.9.png)
